@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    /* background-color: palegoldenrod;*/
+    background-image: url(simon.jpg);
+    background-size: cover; 
+  
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 2px solid white;
+    margin: 10px;
+}
+.btn-container{
+    display: flex;
+    /* background-image: url(simon.jpg);
+    background-size: cover; */
+    justify-content: center;
+    /* border: 2px solid black;
+    margin: 0 500px; */
+
+}
+.upper{
+    /* background-color: white; */
+    color: white; 
+    /* border: 2px solid black;
+    margin: 0 500px; */
+}
+.red{
+    background-color: rgb(149, 111, 111);
+}
+.blue{
+    background-color: rgb(68, 68, 192);
+}
+.yellow{
+    background-color: rgb(183, 183, 124);
+}
+.green{
+    background-color: rgb(227, 154, 231);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
+.special{
+    background-color: red;
+}
